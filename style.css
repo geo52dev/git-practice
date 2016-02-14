@@ -1,0 +1,14 @@
+/* Floated Colums ------------------ */
+
+.column2,
+.column1 {
+  width: 46.5%;
+}
+
+.column1 {
+  float:   left;
+}
+
+.column2 {
+  float: right;
+}
